@@ -28,7 +28,7 @@ export default function Footer() {
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="https://github.com/Glimdoz" target="_blank">
                 <img src={gitHub} alt="Link" />
               </a>
             </li>
